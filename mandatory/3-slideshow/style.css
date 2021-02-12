@@ -6,16 +6,16 @@ body {
   align-items: center;
 }
 #heading {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 #sliderImage {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 50%;
 }
 
 button {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 #btn-container {
