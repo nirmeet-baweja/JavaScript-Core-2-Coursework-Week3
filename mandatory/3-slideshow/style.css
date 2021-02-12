@@ -1,1 +1,12 @@
 /** Write your CSS in here **/
+#heading {
+  border: 1px solid red;
+}
+
+#sliderImage {
+  border: 1px solid red;
+}
+
+button {
+  border: 1px solid red;
+}
