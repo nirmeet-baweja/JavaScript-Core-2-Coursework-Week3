@@ -1,4 +1,10 @@
 /** Write your CSS in here **/
+body {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
 #heading {
   border: 1px solid red;
 }
@@ -9,4 +15,12 @@
 
 button {
   border: 1px solid red;
+}
+
+#btn-container {
+  /* width: 100%; */
+  border: 1px solid blue;
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* justify-content: space-around; */
 }
